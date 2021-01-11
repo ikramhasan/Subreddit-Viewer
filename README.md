@@ -1,10 +1,10 @@
 # Subreddit Viewer
 
-A subreddit viewer made using Flutter and Dart ❤.
+A web app built using flutter that fetches top posts of a subreddit and lets users view the full sizes image upon mouse click.
 
 ## Website
 
-To see the app in action, click [here](https://earthquake-visualization.web.app/#/)
+To see the app in action, click [here](https://subreddit-viewer.web.app/#/)
 
 ## App preview
 
